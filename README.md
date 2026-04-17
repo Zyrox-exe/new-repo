@@ -1,4 +1,4 @@
 # new-repo
 I'll be using this one just to learn about git and github
 <br>
-Author - Sadiq
+Author - The Great Sadiq
